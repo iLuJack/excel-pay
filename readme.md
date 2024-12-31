@@ -32,6 +32,9 @@ This file contains the `base64Image` variable which holds the Base64 encoded ima
 5. Reload the Google Sheet to see the custom menu.
 6. Click on the `Excel Pay` menu and select `Excel Pay` to run the script.
 ![Alt text](images/demo-looks.png)
+
+## Result
+
 ![Alt text](images/demo-result.png)
 
 ## License
